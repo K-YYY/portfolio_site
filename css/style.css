@@ -545,6 +545,10 @@ body.modal-open {
   margin: 0 0 16px;
 }
 
+.about-skill {
+  margin-top: 1em;
+}
+
 .about-visual {
   position: relative;
   width: 360px;
